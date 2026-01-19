@@ -10,7 +10,7 @@
 
 ## 🔗 Demo
 
-🌐 **Acesse online:** [jeanlucboza.github.io/portfolio](https://jeanlucboza.github.io/portfolio)
+🌐 **Acesse online:** [jeanlucboza.github.io/portfolio](https://jeanlucboza.github.io/Portfolio/)
 
 ---
 
